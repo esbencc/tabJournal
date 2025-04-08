@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "My Custom New Tab",
-  "version": "1.0",
-  "description": "A personalized New Tab page.",
+  "name": "Tab Journal",
+  "version": "1",
+  "description": "A custom new tab for lovers of note-taking.",
   "chrome_url_overrides": {
     "newtab": "newtab.html"
   },
